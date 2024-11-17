@@ -13,3 +13,6 @@ This is a required project - Landing Page - for [The Odin Project](https://www.t
     - [FLEX](https://flexbox.malven.co/)
     - [CSS Flexbox Tutorial w/ Cheatsheet](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
     - [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Demo
+Check out the [live demo](https://sjdumas.github.io/landing-page/).
