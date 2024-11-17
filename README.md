@@ -1,4 +1,4 @@
-# Top Landing Page
+# Landing Page
 This is a required project for The Odin Project (TOP). It's a simple landing page that practices the use of HTML, CSS, and Flexbox in particular.
 
 # Skills Required
